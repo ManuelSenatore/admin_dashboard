@@ -86,7 +86,7 @@ const Sidebar = () => {
             <Box mb="25px">
               <Box display="flex" justifyContent="center" alignItems="center">
                 <img
-                  src={"../../assets/user.jpg"}
+                  src={"../../assets/user.png"}
                   width="100px"
                   height="100px"
                   alt="profile-user"
